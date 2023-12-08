@@ -63,6 +63,13 @@ The builder GUI allows configuring payloads and building an executable stealer.
 - Persistence and self-deletion methods
 - Randomized executables to evade AV signature detection
 
+## Virustotal Detections
+
+<p align="center">
+  <img src="https://i.imgur.com/n1QlZ5e.png" width="600" />
+</p>
+
+
 ## Disclaimer 
 
 This tool is provided for educational purposes only. Usage against targets without consent is illegal. The developers are not responsible for any misuse or damage.
